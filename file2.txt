@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Devops Lab 1
+=======
+hola...
+>>>>>>> e4df5e1 (file2 commit)
